@@ -47,5 +47,3 @@ cv2.imwrite("penguins_resized",resized)
 cv2.waitKey(200)
 cv2.destroyAllWindows()
 '''
-import cv2
-cap = cv2.VideoCapture(0)
